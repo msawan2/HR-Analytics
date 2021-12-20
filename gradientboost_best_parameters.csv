@@ -1,0 +1,5 @@
+max_depth,17
+max_features,16
+min_samples_leaf,72
+min_samples_split,184
+subsample,0.634274057957335
