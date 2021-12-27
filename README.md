@@ -1,4 +1,4 @@
-# HR-Analytics
+# HRAnalytics
 
 Analytics Vidhya Competition
 
